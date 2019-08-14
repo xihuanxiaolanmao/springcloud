@@ -12,6 +12,7 @@ import java.io.Serializable;
  * @createTime 30 13:44
  * @description 部门实体类
  */
+@SuppressWarnings("serial")
 @AllArgsConstructor
 @NoArgsConstructor
 @Data
